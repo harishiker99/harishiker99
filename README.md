@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **harishiker99/harishiker99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=harishiker99&show_icons=true&theme=monokai&locale=en" alt="harishiker99" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishiker99&layout=compact&langs_count=8&hide=smalltalk,glsl&langs_count=10&theme=monokai" alt="harishiker99" />
+</p>
