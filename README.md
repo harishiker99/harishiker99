@@ -1,5 +1,7 @@
 <!--### Hi there 👋-->
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=harishiker99&label=Profile%20views&color=0e75b6&style=flat" alt="harishiker99" /> </p>
+
 <!--
 **harishiker99/harishiker99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=harishiker99&show_icons=true&theme=monokai&locale=en" alt="harishiker99" /></p>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishiker99&layout=compact&langs_count=8&hide=smalltalk,glsl&langs_count=10&theme=monokai" alt="harishiker99" />
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=harishiker99&show_icons=true&theme=react&locale=en" alt="harishiker99" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishiker99&layout=compact&langs_count=10&hide=smalltalk,glsl&langs_count=10&theme=react" alt="harishiker99" />
 </p>
