@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=harishiker99&show_icons=true&theme=react&locale=en&include_all_commits=false" alt="harishiker99" /></p>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishiker99&layout=compact&langs_count=10&hide=smalltalk,glsl&langs_count=10&theme=react&locale=en" alt="harishiker99" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harishiker99)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=harishiker99&show_icons=true&count_private=true)
