@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/harishiker99/convoychat" align="center">
-  <img align="center" src="https://github-stats-xi-nine.vercel.app/api/top-langs?username=harishiker99&layout=compact&langs_count=8&theme=react&hide=jupyter%20notebook,smalltalk&locale=en" />
+  <img align="center" src="https://github-stats-xi-nine.vercel.app/api/top-langs?username=harishiker99&layout=compact&langs_count=8&theme=react&hide=jupyter%20notebook,smalltalk,glsl&locale=en" />
 </a>
 
 <a href="https://github.com/harishiker99/github-readme-stats" align="center">
